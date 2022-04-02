@@ -1,8 +1,8 @@
 ## Hi, I'm Vee 👋
 
-<!-- - 🔭 I'm currently studying at App Academy
-- 🌱 I’m currently learning the ways of a Full-Stack Engineer  -->
-
+<!-- - 💻 I'm currently a Web Developer in the making 
+- 🌱 I’m currently learning the ways of becoming a Full-Stack Engineer at App Academy
+ -->
 <!--
 **vee-alianza/vee-alianza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 <!-- ### Fun tools and languages I've learned:
 
-![JavaScript](https://img.shields.io/badge/code-javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a) 
+![JavaScript](https://img.shields.io/badge/code-javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![HTML5](https://img.shields.io/badge/designtools-html5-%23316192.svg?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
 ![CSS3](https://img.shields.io/badge/designtools-css3-%23316192.svg?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
-![Postgres](https://img.shields.io/badge/tools-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)   
+![Postgres](https://img.shields.io/badge/tools-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)  
 ![Sequelize](https://img.shields.io/badge/tools-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&color=2bbc8a)
 ![Express.js](https://img.shields.io/badge/datalanguage-express.js-%23316192.svg?style=for-the-badge&logo=express&logoColor=white&color=2bbc8a)
-![Markdown](https://img.shields.io/badge/tools-markdown-%23316192.svg?style=for-the-badge&logo=markdown&logoColor=white&color=2bbc8a)  -->
+![Markdown](https://img.shields.io/badge/tools-markdown-%23316192.svg?style=for-the-badge&logo=markdown&logoColor=white&color=2bbc8a) 
 
-
+ -->
 
 
