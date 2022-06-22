@@ -17,8 +17,8 @@
 ![NodeJS](https://img.shields.io/badge/tools-node.js-%23316192.svg?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![HTML5](https://img.shields.io/badge/designtools-html5-%23316192.svg?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
 ![CSS3](https://img.shields.io/badge/designtools-css3-%23316192.svg?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a) 
-![Postgres](https://img.shields.io/badge/tools-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a) 
-![Sequelize](https://img.shields.io/badge/tools-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&color=2bbc8a) </br>
+![Postgres](https://img.shields.io/badge/tools-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a) </br>
+![Sequelize](https://img.shields.io/badge/tools-Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&color=2bbc8a) 
 ![Express.js](https://img.shields.io/badge/datalanguage-express.js-%23316192.svg?style=for-the-badge&logo=express&logoColor=white&color=2bbc8a)
 ![Pug](https://img.shields.io/badge/code-pug-%23316192.svg?style=for-the-badge&logo=pug&logoColor=white&color=2bbc8a)
 ![Markdown](https://img.shields.io/badge/tools-markdown-%23316192.svg?style=for-the-badge&logo=markdown&logoColor=white&color=2bbc8a) 
