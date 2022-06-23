@@ -2,12 +2,17 @@
 
 ![Readme banner](https://user-images.githubusercontent.com/92604480/175169197-0b41275b-b003-4fc0-8f25-59c7081e71c0.gif)
 
-<!-- <h3 align= "center" dir="auto">"How did I get here?!" --- Me, everyday.</h3> -->
+<h3 align= "center" dir="auto">"How did I get here?!" --- Me, everyday.</h3>
 
-<!-- I never pictured myself as Software Engineer . Currently, I am working on an e-commerce app called Aikawa! -->
+Well, after 200 days, 4800 hours, 288000 minutes and 17280000 seconds (more or less) of sleepless nights and 4 full stack projects later .... I still ponder the same question :joy:
 
-### Fun tools and languages I've learned:
+I am a programmer with a background in nursing. 
 
+From donning proper PPE and prioritizing patient safety to problem solving/critical thinking and prioritizing debugging --- I quite don't see the difference :relaxed:
+
+Currently, I am working on an e-commerce app called Aikawa!
+
+### Fun tools and languages I've learned!
 
 ![JavaScript](https://img.shields.io/badge/code-javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/code-react-%23316192.svg?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
@@ -35,7 +40,15 @@
 
 
 <!-- 
-
+<a href="https://www.linkedin.com/in/vee-alianza/" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://angel.co/u/vee-alianza" target="_blank">
+   <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
+<a href="" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black) -->
