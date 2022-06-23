@@ -4,7 +4,7 @@
 
 <h3 align= "center" dir="auto">"How did I get here?!" --- Me, everyday.</h3>
 
-Well, after 200 days, 4800 hours, 288000 minutes and 17280000 seconds (more or less) of sleepless nights and 4 full stack projects later .... I still ponder the same question :joy:
+Well, after 200 days, 4800 hours, 288000 minutes and 17280000 seconds (more or less) of sleepless nights and 4 full stack projects later .... I still ponder that same question :joy:
 
 I am a programmer with a background in nursing. 
 
