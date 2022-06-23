@@ -1,6 +1,7 @@
 ## Hello there, I'm Vee! 👋
+![Readme banner (2)](https://user-images.githubusercontent.com/92604480/175332216-d8fea704-1420-44ab-8216-0e04f5d17155.gif)
+<!-- ![Readme banner](https://user-images.githubusercontent.com/92604480/175169197-0b41275b-b003-4fc0-8f25-59c7081e71c0.gif) -->
 
-![Readme banner](https://user-images.githubusercontent.com/92604480/175169197-0b41275b-b003-4fc0-8f25-59c7081e71c0.gif)
 
 <h3 align= "center" dir="auto">"How did I get here?!" --- Me, everyday.</h3>
 
