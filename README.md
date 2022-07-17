@@ -10,7 +10,7 @@ Well, after 200 days, 4800 hours, 288000 minutes and 17280000 seconds (more or l
 
 I am a programmer with a background in nursing. 
 
-From donning proper PPE and prioritizing patient safety to problem solving/critical thinking and prioritizing debugging --- I quite don't see the difference :relaxed:
+From donning proper PPE and prioritizing patient safety to problem solving/critical thinking and prioritizing debugging --- I don't quite see the difference :relaxed:
 
 Currently, I am working on an e-commerce app called Aikawa!
 
