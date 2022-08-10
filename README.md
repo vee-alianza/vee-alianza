@@ -36,5 +36,6 @@ Currently, I am working on an e-commerce app called Aikawa!
 <p align="left">
 <a href="https://www.linkedin.com/in/vee-alianza/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338280-ccd206fd-432e-4bff-b232-164ba5ab742c.svg" alt="linkedin" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://angel.co/u/vee-alianza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338175-19ae53eb-80b2-4c46-8246-e412a1ca436d.png" style="color:white"  alt="angel-list" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:vee.alianza@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175336308-39adead6-9e3e-4d9c-a116-08e3c49a9a18.svg" style="color:white"  alt="angel-list" height="30" /></a>
+<a href="mailto:vee.alianza@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175336308-39adead6-9e3e-4d9c-a116-08e3c49a9a18.svg" style="color:white"  alt="angel-list" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vee-alianza.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/184016568-0e8e8266-ab63-4e1e-955c-87d16f3204c8.png" style="color:white"  alt="angel-list" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
