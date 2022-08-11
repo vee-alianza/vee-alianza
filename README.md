@@ -34,8 +34,8 @@ Currently, I am working on an e-commerce app called Aikawa!
 ### Where to find me!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vee-alianza/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338280-ccd206fd-432e-4bff-b232-164ba5ab742c.svg" alt="linkedin" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://angel.co/u/vee-alianza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338175-19ae53eb-80b2-4c46-8246-e412a1ca436d.png" style="color:white"  alt="angel-list" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:vee.alianza@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175336308-39adead6-9e3e-4d9c-a116-08e3c49a9a18.svg" style="color:white"  alt="angel-list" height="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://vee-alianza.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/184041753-670901f8-0e8a-4d2a-8ccb-f7115c746924.jpg" style="border-radius="50%"  alt="portfolio-logo" height="38" ></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vee-alianza/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338280-ccd206fd-432e-4bff-b232-164ba5ab742c.svg" alt="linkedin" height="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://angel.co/u/vee-alianza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175338175-19ae53eb-80b2-4c46-8246-e412a1ca436d.png" style="color:white"  alt="angel-list" height="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:vee.alianza@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/175336308-39adead6-9e3e-4d9c-a116-08e3c49a9a18.svg" style="color:white"  alt="angel-list" height="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vee-alianza.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92604480/184058294-ea970405-16c8-45a4-afda-93849d98232e.png" style="border-radius="50%"  alt="portfolio-logo" height="45" ></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
